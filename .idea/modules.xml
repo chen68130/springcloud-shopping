@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/alibaba-shopping/alibaba-cache/alibaba-cache.iml" filepath="$PROJECT_DIR$/alibaba-shopping/alibaba-cache/alibaba-cache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/alibaba-shopping/alibaba-common/alibaba-common.iml" filepath="$PROJECT_DIR$/alibaba-shopping/alibaba-common/alibaba-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/alibaba-shopping/alibaba-shopping.iml" filepath="$PROJECT_DIR$/alibaba-shopping/alibaba-shopping.iml" />
+    </modules>
+  </component>
+</project>
